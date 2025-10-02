@@ -19,7 +19,7 @@ The full PDF report provides details, screenshots, and prioritized remediation s
 ---
 
 ## 📂 Files
-- [`report/Banoqabil-OSINT-Report.pdf`](./report/Banoqabil-OSINT-Report.pdf) — full PDF report  
+- [`Banoqabil-OSINT-Report.pdf`](./Banoqabil-OSINT-Report.pdf) — full PDF report  
 - [`assets/preview.png`](./assets/preview.png) — executive summary preview (optional)  
 
 ---
